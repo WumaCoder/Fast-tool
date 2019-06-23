@@ -1,0 +1,2 @@
+javascript:(function(){var srciptEl=document.createElement('script');srciptEl.setAttribute("src","https://raw.githubusercontent.com/holleworldabc/Fast-tool/master/test.js");document.body.appendChild(srciptEl);})()
+javascript:(function(){console.log(window,document);})()
